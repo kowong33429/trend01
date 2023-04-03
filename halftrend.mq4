@@ -113,7 +113,6 @@ void OnTick()
 
    int index_rsi = depth_trend();
    int index_ac = speed_ac();
-//EMPTY_VALUE
 
 //if(TimeMinute(TimeCurrent())==1 && TimeSeconds(TimeCurrent())==1)Print("ha: ",iCustom(NULL,0,"ha_candle",6,4,1));
 
